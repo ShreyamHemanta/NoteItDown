@@ -1,2 +1,2 @@
 # NoteItDown
-Simple Notepad Web App
+A Simple Notepad WebApp
